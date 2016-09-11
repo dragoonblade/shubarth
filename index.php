@@ -11,5 +11,7 @@
   	<img src="image/mv.jpg" alt="Mountain View" style="width:800px;height:600px;">
   	<h3>Flash</h3> 
   	<img src="image/flash.jpg" alt="Mountain View" style="width:800px;height:600px;">
+  	<h4>GIF</h4> 
+  	<img src="image/gif.gif" alt="Mountain View" style="width:800px;height:600px;">
   </body>
 </html>
