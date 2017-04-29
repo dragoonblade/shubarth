@@ -1,0 +1,27 @@
+
+/* Change UI Color*/
+.footerPopupStyle, .footerPopupStyle .footerPopup-hover {
+    background-color:#d13c30; /* Change UI Background Color*/
+	border-color:#2d308e;
+}
+.footerPopupStyle form select, .footerPopupStyle form input, .footerPopupStyle form select, .footerPopupStyle form textarea.footerPopupTextarea {   
+    background-color: #fff;/* Change Inputs Background Color*/
+	color: #3a3a3a;/* Change Inputs Font Color*/
+}
+.footerPopupStyle .footerPopupHeading,, .footerPopupStyle .footerPopup-close {
+    color: #fff; /* Change Font Color*/   
+}
+.footerPopupStyle .footerPopupHeading span, .footerPopupStyle .footerPopup-hover{
+    color: #ecd409; /* Change Products Name Font Color*/   
+}
+.footerPopupStyle form .footerPopupSubmit{	
+	background-color:#ecd409;/* Change Buttons Color*/
+	color:#000;	
+}
+
+.tnk-mdl{ color:#fff;}/* Change Thank you Color*/
+
+/* Change UI Color End*/
+
+.footerPopupStyle .intl-tel-input .country-list {
+    b

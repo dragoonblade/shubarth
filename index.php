@@ -1,266 +1,199 @@
-<html>
-  <head>
-    <title>Welcome to Shubarth</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <script language="javascript" src="checkall.js"></script>
-    <script language="JavaScript" type="text/JavaScript">
-      <!--
-      function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-        if (init==true) with (navigator) { 
-          if ((appName=="Netscape")&&(parseInt(appVersion)==4)) { 
-            document.MM_pgW=innerWidth; 
-            document.MM_pgH=innerHeight; 
-            onresize=MM_reloadPage; 
-          }
-        }
-        else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) 
-          location.reload();
-      }
-      MM_reloadPage(true);
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Welcome to Shubarth - Shubarth is a growing company supplying Scaffold Products in International Arena</title>
 
-      function MM_findObj(n, d) { //v4.01
-        var p,i,x;  
-        if(!d) 
-          d=document; 
-        if((p=n.indexOf("?"))>0 && parent.frames.length) { 
-          d=parent.frames[n.substring(p+1)].document; 
-          n=n.substring(0,p);
-       }
-        if(!(x=d[n])&&d.all) 
-          x=d.all[n]; 
-        for (i=0;!x&&i<d.forms.length;i++) 
-          x=d.forms[i][n];
-        for(i=0;!x&&d.layers&&i<d.layers.length;i++) 
-          x=MM_findObj(n,d.layers[i].document);
-        if(!x && d.getElementById) 
-          x=d.getElementById(n); 
-       return x;
-      }
+<meta name="description" content="Shubarth is a growing company supplying Scaffold Products in International Arena" />
+<LINK REL="shortcut icon" HREF="favicon.ico">
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<LINK HREF="st.css" REL="stylesheet" TYPE="text/css">
 
-      function MM_showHideLayers() { //v6.0
-        var i,p,v,obj,args=MM_showHideLayers.arguments;
-        for (i=0; i<(args.length-2); i+=3) 
-          if ((obj=MM_findObj(args[i]))!=null) { 
-            v=args[i+2];
-            if (obj.style) { 
-              obj=obj.style; 
-              v=(v=='show')?'visible':(v=='hide')?'hidden':v; 
-            }
-            obj.visibility=v; 
-        }
-      }
-      //-->
-    </script>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-  </head>
-  <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-    <table id="Table_01" width="778" height="1" border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <img src="imgs/gg.jpg" height="200" width="778">
-      </tr>  
-      <td bgcolor="#000000" valign="top"> 
-      <div id="lyrmain" style="position:absolute; z-index:1; visibility: visible;"> 
-        <table width="300" border="0" cellpadding="2" class="txt_white">  
-        <tr> 
-          <td width="330">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="index.php">Home</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','hide','lyrproducts','','show','lyrfencehardware','','hide','lyrscaffolding','','hide','lyrsystemscaffolds','','hide')">Products</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="quality_policy.php">Quality Policy</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="contact_us.php">Contact us</a></font></td>
-        </tr>
-      </table>
-    </div>
-    <div id="lyrproducts" style="position:absolute; z-index:1; visibility: hidden;"> 
-      <table border="0" width="320" cellpadding="2" class="txt_white">
-        <tr> 
-          <td width="100%">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="index.php">Home</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','show','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','hide','lyrsystemscaffolds','','hide')">Products</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%" align="center"> 
-            <table border="0" width="90%" class="txt_white" cellpadding="2">
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="jacks_and_base_plates.php">Jacks &amp; Base Plates</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="kwickstage_system_scaffolds.php">Kwicksatge System Scaffolds</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','hide','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','show','lyrsystemscaffolds','','hide')">Scaffolding Clamps</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="gate_hangers.php">Gate Hangers</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="miscellaneous.php">Miscellaneous</a></font></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="quality_policy.php">Quality Policy</a></font></td>
-        </tr>
-          <font color="#000000"></tr></font> 
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="contact_us.php">Contact us</a></font></td>
-        </tr>
-      </table>
-    </div>
-    <div id="lyrscaffolding" style="position:absolute; z-index:1; visibility: hidden;"> 
-      <table border="0" width="320" cellpadding="2" class="txt_white">
-        <tr> 
-          <td width="100%">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="index.php">Home</a></font></td>
-        </tr>
-        <tr> 
-          <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','show','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','hide','lyrsystemscaffolds','','hide')">Products</a></font></td>
-         </tr>
-        <tr> 
-          <td align="right">
-            <table border="0" width="90%" class="txt_white" cellpadding="2"><tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="jacks_and_base_plates.php">Jacks &amp; Base Plates</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="kwickstage_system_scaffolds.php">Kwicksatge System Scaffolds</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','hide','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','show','lyrsystemscaffolds','','hide')">Scaffolding Clamps</a></font></td>
-              </tr>
-              <tr> 
-                <td align="right">
-                  <table border="0" width="90%" class="txt_white" cellpadding="2">
-                    <tr> 
-                      <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="forged_coupler.php">Forged Coupler</a></font></td>
-                    </tr>
-                    <tr> 
-                      <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="pressed_coupler.php">Pressed Coupler</a></font></td>
-                    </tr>
-                  </table>
-                </td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="gate_hangers.php">Gate Hangers</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="miscellaneous.php">Miscellaneous</a></font></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="quality_policy.php">Quality Policy</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="contact_us.php">Contact us</a></font></td>
-        </tr>
-      </table>
-    </div>
-    <div id="lyrsystemscaffolds" style="position:absolute; z-index:1; visibility: hidden;"> 
-      <table border="0" width="320" cellpadding="2" class="txt_white">
-        <tr> 
-          <td width="100%">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="index.php">Home</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','show','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','hide','lyrsystemscaffolds','','hide')">Products</a></font></td>
-        </tr>
-        <tr> 
-          <td align="right">
-            <table border="0" width="90%" class="txt_white" cellpadding="2"><tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="jacks_and_base_plates.php">Jacks &amp; Base Plates</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="kwickstage_system_scaffolds.php">Kwicksatge System Scaffolds</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="#" onMouseDown="MM_showHideLayers('lyrmain','','hide','lyrproducts','','hide','lyrfencehardware','','hide','lyrscaffolding','','show','lyrsystemscaffolds','','hide')">Scaffolding Clamps</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="gate_hangers.php">Gate Hangers</a></font></td>
-              </tr>
-              <tr> 
-                <td><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="miscellaneous.php">Miscellaneous</a></font></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="quality_policy.php">Quality Policy</a></font></td>
-        </tr>
-        <tr> 
-          <td width="100%"><font color="#000000"><img border="0" src="imgs/bullet.gif" align="bottom" width="15" height="13"><a href="contact_us.php">Contact us</a></font></td>
-        </tr>
-      </table>
-    </div>
-  </td>
-  <td nowrap bgcolor="#FFFFFF" valign="top" width="525" class="txt">
-    <p align="center"><font color="#000000"><b>- [ Home ] -</b></font></p>
-    <p style="margin-left: 2; margin-right: 2" align="justify">Welcome to our website. Here we have compiled an overview of our systems for tube and fitting scaffolding. We are manufacturers and exporters of a wide selection of scaffolding products, fencing and sheet metal components.<br>
-    <br>
-    You can benefit fully from our broad experience. National and International involvement over more than 4 years, in various aspects of production, advice and sales, has made us an extremely reliable partner. Of course we are familiar with all the technical qualities of the different products.<br>
-    <br>
-    We are the largest Indian producer with exports of scaffolding products, fencing and sheet metal components across the world. The entire chain, from production to supply, is monitored by an integrated quality system. This means that all stages are accurately described which enables later tracing if required.&nbsp;<br>
-    <br>
-    Scaffolding couplers form the basis for tube and fitting scaffolding construction.
-    JasKiran Udyog supplies a top-quality scaffolding and fencing products produced in our own manufacturing facilities in the
-    India. All products are manufactured under controlled conditions.&nbsp;<br>
-    <br>
-    We can offer a fine selection of couplers like Pressed, Wedge Couplers and accessories for the various type of scaffolding
-    equipments.<br>
-    <br>
-    Of course we would be only too pleased to come along and explain more about our scaffolding systems.
-    <a href="contact_us.php"><font color="#000000"> To make an appointment simply mail us or telephone. Try us</font></a><font color="#000000">!</font> 
-  </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
-        <hr noshade>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
-      <p align="center">| <a href="index.php"><font color="#000000">Home</font></a> | <a href="quality_policy.php"><font color="#000000">Quality
-        Policy</font></a> | <a href="contact_us.php"><font color="#000000">Contact us</font></a> |
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
-        <hr noshade>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
-      <p align="center">&quot;Thank you for visiting our website, please send your feedback and comments to <a href="mailto:alkahb@shubarth.com"><font color="#000000"> alkahb@shubarth.com</font></a> or<br> call phone for all your construction, scaffolding, any type fencing and sheet metal requirements.<br> Please don't hesitate to contact with us, we are much happy to serve you.&quot;
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
-      <hr noshade>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT"><p align="center">
-      Office / Works: Addrress<br>
-      (Office) Phone, Fax , E-mail: <a href="mailto:alkahb@shubarth.com" class="txt"><font color="#000000">alkahb@shubarth.com</font></a></p>
-    </td>
-  </tr>
-</table>
-</body>
+</head>
+<body>
+
+
+<section>	
+<header>
+<!--start logo and nav-->
+    
+    <DIV CLASS="bc1"> 
+      <DIV CLASS=" m">
+        <DIV CLASS="fr">
+          <DIV CLASS="navigation">
+            <UL>
+              <LI><A HREF="index.php" CLASS="select">Home</A></LI>
+              <LI><A HREF="product.php">Products</A>
+                <UL>
+                  <LI><A HREF="plates.php">Base Plates</A></LI>
+                  <LI><A HREF="kwickstage.php">Kwickstage System Scaffolds</A></LI>
+                  <LI><A>Scaffolding Clamps</A>
+                    <UL>
+                      <LI><A HREF="forged.php">Forged Couplers</A></LI>
+                      <LI><A HREF="pressed.php">Pressed Couplers</A></LI>
+                    </UL>
+                  </LI>
+                  <LI><A HREF="hangers.php">Gate Hangers</A></LI>
+                  <LI><A HREF="misc.php">Miscellaneous</A></LI>
+                </UL>
+              </LI>
+              <LI><A HREF="enquiry.php">Contact</A></LI>
+            </UL> 
+          </DIV> 
+        </DIV>
+        <P CLASS="fl"><IMG SRC="imgs/gg.jpg" WIDTH="237" HEIGHT="72" ALT="Shubarth"></P>
+        <DIV CLASS="cb"></DIV> 
+      </DIV> 
+    </DIV>
+
+<!--end logo and nav-->       
+</header>
+<p class="h3"></p>
+</section>
+
+
+<!--start banner slider-->
+<div class="w3-content w3-section">
+  <img class="mySlides w3-animate-fading" src="imgs/4.jpg" WIDTH="1350" HEIGHT="300">
+  <img class="mySlides w3-animate-fading" src="imgs/1.jpg" WIDTH="1350" HEIGHT="300">
+  <img class="mySlides w3-animate-fading" src="imgs/2.jpg" WIDTH="1350" HEIGHT="300">
+  <img class="mySlides w3-animate-fading" src="imgs/3.jpg" WIDTH="1350" HEIGHT="300">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 9000);    
+}
+</script>
+
+
+
+<!--contant start-->
+
+<div class="cb"></DIV>
+
+<div class="v1">
+
+<div class="w1 m"> 
+
+<div class="homebottom fl c4 p21-1 b1 c p3">
+
+<p class="m4" style="color: #0000FF; font-size: 50px"><strong>About Us</strong></p><br>
+
+<p class="j homebottom1 p20" style="font-size: 19px">Shubarth is a growing company supplying Scaffold Products in International Arena. Established in 2014 Shubarth is establishing itself a service oriented supplier. Exceeding customer satisfaction is our motto. We are bridging gap between manufacturers and users by providing them a mutual solutions.</p>
+<br>
+<p class="j homebottom1 p20" style="font-size: 19px">Our efforts are to provide quality products to our esteemed clients with full support of following up with manufacturers. </p>
+<br>
+<p class="j homebottom1 p20" style="font-size: 19px">We can source products and can be your personalise contact point in Indian market. We have experienced team enabling you to provide products as per required standards.</p>
+</div>
+</div>
+</div>
+</div>
+
+<br>
+
+<!--contant end-->
+
+<p class="cb"></p>
+
+
+<div class="w1 m"> 
+
+<div class="p4 v2 m5 homebottom2">
+OUR &nbsp;PRODUCTS 
+<p class="fr">
+<a><IMG></a>
+</p>
+</div>
+
+
+
+<!--our product start1-->
+
+<div class="w4 fl m6 a2">
+<p><a href="plates.php"><img src="imgs/products/plates.jpg" alt="Base Plates" width="219" height="126" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="plates.php">Base Plates</a></h2></div>
+
+<div class="w4 fl m6 a2">
+<p><a href="kwickstage.php"><img src="imgs/products/kwick.gif" alt="Kwickstage Scaffolding Systems" width="478" height="76" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="kwickstage.php">Kwickstage Scaffolding Systems</a></h2></div>
+
+<div class="w4 fl m6 a2">
+<p><a><img></a></p>
+<h2><a></a></h2></div>
+
+<div class="w4 fl a2">
+<p><a href="forged.php"><img src="imgs/products/forged.jpg" alt="Forged Scaffolding Clamps" width="219" height="126" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="forged.php">Forged Scaffolding Clamps</a></h2></div>
+
+
+<!--our product end1-->
+
+
+
+
+<!--our product start2-->
+
+
+<div class="w4 fl m6 a2">
+<p><a href="Pressed.php"><img src="imgs/products/pressed.jpg" alt="Pressed Scaffolding Clamps" width="219" height="126" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="pressed.php">Pressed Scaffolding Clamps</a></h2></div>
+
+
+<div class="w4 fl m6 a2">
+<p><a href="hangers.php"><img src="imgs/products/hangers.jpg" alt="Gate Hangers" width="219" height="126" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="hangers.php">Gate Hangers</a></h2></div>
+
+
+<div class="w4 fl a2">
+<p><a href="misc.php"><img src="imgs/products/misc.jpg" alt="Miscellaneous" width="219" height="126" class="b2"></a></p>
+<h2 itemscope itemtype="http://schema.org/Product"><a href="misc.php">Miscellaneous</a></h2></div>
+
+
+<!--our product end2-->
+
+<p class="cb"></p>
+
+
+<div class="se1">We welcome your enquiry & try to respond in shortest possible time 
+
+<span class="btn_enq"><a href="https://docs.google.com/forms/d/1oSyFoBhDuh7mVzx9822CkegBh2NVJXCK2FsT07oyV58">Send Enquiry For The Products</a></span></div>
+
+
+<!--footer start-->
+
+
+<P class="cb"></P>
+</DIV>
+
+</DIV>
+
+</div>
+
+<p class="cb"></p>
+
+</footer>
+
+<div class="v5">
+<p class="w1 m c2"><b>Shubarth</b>.
+<p class="w1 m c2" align="center">Thank you for visiting our website, please send your feedback and comments to <a href="mailto:alkahb@shubarth.com">alkahb@shubarth.com</a> or
+call +91 902 360 778 for all your construction, scaffolding, any type fencing and sheet metal requirements.
+Please don't hesitate to contact with us, we are much happy to serve you.
+</div>
+<!--footer end-->
+
+
+
+</BODY>
 </html>
