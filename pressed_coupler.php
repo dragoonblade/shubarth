@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Welcome to Shubarth</title>
+    <title>Pressed Couplers</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <script language="javascript" src="checkall.js"></script>
     <script language="JavaScript" type="text/JavaScript">
@@ -56,7 +56,7 @@
   <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
     <table id="Table_01" width="778" height="1" border="0" cellpadding="0" cellspacing="0">
       <tr>
-        <img src="imgs/gg.jpg" height="200" width="778">
+        <img src="imgs/gg.jpg" height="100" width="778">
       </tr>  
       <td bgcolor="#000000" valign="top"> 
       <div id="lyrmain" style="position:absolute; z-index:1; visibility: visible;"> 
@@ -210,53 +210,51 @@
       </table>
     </div>
   </td>
-  <td nowrap bgcolor="#FFFFFF" valign="top" width="525" class="txt">
-    <p align="center"><font color="#000000"><b>- [ Home ] -</b></font></p>
-    <p style="margin-left: 2; margin-right: 2" align="justify">Welcome to our website. Here we have compiled an overview of our systems for tube and fitting scaffolding. We are manufacturers and exporters of a wide selection of scaffolding products, fencing and sheet metal components.<br>
-    <br>
-    You can benefit fully from our broad experience. National and International involvement over more than 4 years, in various aspects of production, advice and sales, has made us an extremely reliable partner. Of course we are familiar with all the technical qualities of the different products.<br>
-    <br>
-    We are the largest Indian producer with exports of scaffolding products, fencing and sheet metal components across the world. The entire chain, from production to supply, is monitored by an integrated quality system. This means that all stages are accurately described which enables later tracing if required.&nbsp;<br>
-    <br>
-    Scaffolding couplers form the basis for tube and fitting scaffolding construction.
-    JasKiran Udyog supplies a top-quality scaffolding and fencing products produced in our own manufacturing facilities in the
-    India. All products are manufactured under controlled conditions.&nbsp;<br>
-    <br>
-    We can offer a fine selection of couplers like Pressed, Wedge Couplers and accessories for the various type of scaffolding
-    equipments.<br>
-    <br>
-    Of course we would be only too pleased to come along and explain more about our scaffolding systems.
-    <a href="contact_us.php"><font color="#000000"> To make an appointment simply mail us or telephone. Try us</font></a><font color="#000000">!</font> 
+  <td nowrap bgcolor="#FFFFF" valign="top" width="520" >
+    <p align="center"><font color="#000000"><b>- [ Pressed Couplers ] -</b></font></p>
+    <img src="imgs\pressed\601.jpg" width="255">
+    <img src="imgs\pressed\602.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\603.jpg" width="255">
+    <img src="imgs\pressed\604.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\605.jpg" width="255">
+    <img src="imgs\pressed\606.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\607.jpg" width="255">
+    <img src="imgs\pressed\610.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\611.jpg" width="255">
+    <img src="imgs\pressed\613.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\614.jpg" width="255">
+    <img src="imgs\pressed\615.jpg" width="255" align="right"><br>
+    <img src="imgs\pressed\627.jpg" width="255">
   </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT">
         <hr noshade>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT">
       <p align="center">| <a href="index.php"><font color="#000000">Home</font></a> | <a href="quality_policy.php"><font color="#000000">Quality
         Policy</font></a> | <a href="contact_us.php"><font color="#000000">Contact us</font></a> |
     </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT">
         <hr noshade>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT">
       <p align="center">&quot;Thank you for visiting our website, please send your feedback and comments to <a href="mailto:alkahb@shubarth.com"><font color="#000000"> alkahb@shubarth.com</font></a> or<br> call phone for all your construction, scaffolding, any type fencing and sheet metal requirements.<br> Please don't hesitate to contact with us, we are much happy to serve you.&quot;
     </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT">
       <hr noshade>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT"><p align="center">
+    <td bgcolor="#FFFFF" valign="top" colspan="2" class="TXT"><p align="center">
       Office / Works: Addrress<br>
       (Office) Phone, Fax , E-mail: <a href="mailto:alkahb@shubarth.com" class="txt"><font color="#000000">alkahb@shubarth.com</font></a></p>
     </td>

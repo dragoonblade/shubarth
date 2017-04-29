@@ -1,7 +1,32 @@
-#ok {
-    	margin-left: 25%;
-    	font-size:300%;
-	}
-.roll {
-    	color:blue;
-	}
+.txt_white   { font-family: "Monotype Corsiva"; font-size: 13pt; color: #FFFFFF; font-weight: bold }
+
+.txt   { font-family: Arial; font-size: 14pt; color: #000000 }
+.txt_products   { font-family: Arial; font-size: 14pt; color: #000000;font-weight: bold 	text-decoration: none;}
+.txt_small   { font-family: Arial; font-size: 12pt; color: #000000 }
+.txt_bold { font-family: "Monotype Corsiva" ; font-size: 14pt; color: #FFFFFF; font-weight: bold; background-color: #11489A; }
+
+.txt_bld { font-family: "Monotype Corsiva" ; font-size: 14pt; color: #000000; font-weight: bold}
+
+.txt_b1 {font-family: "Monotype Corsiva" ; font-size: 14pt; color: #4D2E00; font-weight: bold; background-color: #0094DC; }
+
+.fld {
+	font-family: Verdana; font-size: 9pt; color: #4D2E00; background-color: 
+               #FFFFFF; border: 1 double #4D2E00
+}
+
+a:link {
+	color: #00CDFF;
+	text-decoration: none;
+}
+a:active {
+	color: #00CDFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #00CDFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #00CDFF;
+	text-decoration: underline;
+}

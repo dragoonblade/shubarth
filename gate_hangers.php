@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Welcome to Shubarth</title>
+    <title>Gate Hangers</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <script language="javascript" src="checkall.js"></script>
     <script language="JavaScript" type="text/JavaScript">
@@ -56,7 +56,7 @@
   <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
     <table id="Table_01" width="778" height="1" border="0" cellpadding="0" cellspacing="0">
       <tr>
-        <img src="imgs/gg.jpg" height="200" width="778">
+        <img src="imgs/gg.jpg" height="100" width="778">
       </tr>  
       <td bgcolor="#000000" valign="top"> 
       <div id="lyrmain" style="position:absolute; z-index:1; visibility: visible;"> 
@@ -210,23 +210,12 @@
       </table>
     </div>
   </td>
-  <td nowrap bgcolor="#FFFFFF" valign="top" width="525" class="txt">
-    <p align="center"><font color="#000000"><b>- [ Home ] -</b></font></p>
-    <p style="margin-left: 2; margin-right: 2" align="justify">Welcome to our website. Here we have compiled an overview of our systems for tube and fitting scaffolding. We are manufacturers and exporters of a wide selection of scaffolding products, fencing and sheet metal components.<br>
-    <br>
-    You can benefit fully from our broad experience. National and International involvement over more than 4 years, in various aspects of production, advice and sales, has made us an extremely reliable partner. Of course we are familiar with all the technical qualities of the different products.<br>
-    <br>
-    We are the largest Indian producer with exports of scaffolding products, fencing and sheet metal components across the world. The entire chain, from production to supply, is monitored by an integrated quality system. This means that all stages are accurately described which enables later tracing if required.&nbsp;<br>
-    <br>
-    Scaffolding couplers form the basis for tube and fitting scaffolding construction.
-    JasKiran Udyog supplies a top-quality scaffolding and fencing products produced in our own manufacturing facilities in the
-    India. All products are manufactured under controlled conditions.&nbsp;<br>
-    <br>
-    We can offer a fine selection of couplers like Pressed, Wedge Couplers and accessories for the various type of scaffolding
-    equipments.<br>
-    <br>
-    Of course we would be only too pleased to come along and explain more about our scaffolding systems.
-    <a href="contact_us.php"><font color="#000000"> To make an appointment simply mail us or telephone. Try us</font></a><font color="#000000">!</font> 
+  <td nowrap bgcolor="#FFFFFF" valign="top" width="520" >
+    <p align="center"><font color="#000000"><b>- [ Gate Hangers ] -</b></font></p>
+    <img src="imgs\hangers\1702.jpg" width="257">
+    <img src="imgs\hangers\1703.jpg" width="257" align="right"><br>
+    <img src="imgs\hangers\1704.jpg" width="257">
+    <img src="imgs\hangers\1705.jpg" width="257" align="right"><br>
   </td>
   </tr>
   <tr>
@@ -258,7 +247,7 @@
   <tr>
     <td bgcolor="#FFFFFF" valign="top" colspan="2" class="TXT"><p align="center">
       Office / Works: Addrress<br>
-      (Office) Phone, Fax , E-mail: <a href="mailto:alkahb@shubarth.com" class="txt"><font color="#000000">alkahb@shubarth.com</font></a></p>
+      (Office) Phone, Fax , E-mail: <a href="alkahb@shubarth.com" class="txt"><font color="#000000">alkahb@shubarth.com</font></a></p>
     </td>
   </tr>
 </table>
